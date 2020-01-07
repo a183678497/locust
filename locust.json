@@ -1,0 +1,15 @@
+{
+  "Name":"LocustApp",
+  "Host":"127.0.0.1",
+  "TcpPort":1437,
+  "MaxConn":6,
+  "WorkerPoolSize": 1024,
+  "MaxWorkerTaskLen":4096,
+  "MaxMsgChanLen": 4096,
+  "MysqlMaxOpenConns" : 100,
+  "MysqlMaxIdleConns":10,
+  "MysqlDriverName" : "mysql",
+  "MysqlDataSourceName" : "caiyuantest:Cscy20!9qwe@tcp(feidarui-caiyuan-web.mysql.rds.aliyuncs.com:3386)/caiyuan-test?charset=utf8mb4",
+  "LogName": "locust",
+  "MaxRemainCnt": 240
+}

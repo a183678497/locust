@@ -1,0 +1,8 @@
+time="2020-01-06T15:19:46+08:00" level=info msg="A group of walrus emerges from the ocean" data= operation="程序启动中...."
+time="2020-01-06T15:20:35+08:00" level=info msg="A group of walrus emerges from the ocean" data=aa00001120181000099500000a0100007b1600c9e85f0000641accaa00001120181000099500010a0101807b1600c9e85f0100909fccaa01001120181000099500020a010304cf03d40012160001b7c3cc operation="接收到数据数据"
+time="2020-01-06T15:20:35+08:00" level=info msg="A group of walrus emerges from the ocean" data=00001120181000099500000a0100007b1600c9e85f0000641a operation="校验码核对"
+time="2020-01-06T15:20:35+08:00" level=info msg="A group of walrus emerges from the ocean" data=00001120181000099500010a0101807b1600c9e85f0100909f operation="校验码核对"
+time="2020-01-06T15:20:35+08:00" level=info msg="A group of walrus emerges from the ocean" data=01001120181000099500020a010304cf03d40012160001b7c3 operation="校验码核对"
+time="2020-01-06T15:21:31+08:00" level=info msg="A group of walrus emerges from the ocean" data=aa00001120181000099500000a0100007b1600c9e85f0000641accaa00001120181000099500010a0101807b1600c9e85f0100909fccaa01001120181000099500020a010304cf03d40012160001b7c3cc operation="接收到数据数据"
+time="2020-01-06T15:21:31+08:00" level=info msg="A group of walrus emerges from the ocean" data=00001120181000099500000a0100007b1600c9e85f0000641a operation="校验码核对"
+time="2020-01-06T15:21:47+08:00" level=info msg="A group of walrus emerges from the ocean" data=00001120181000099500010a0101807b1600c9e85f0100909f operation="校验码核对"
